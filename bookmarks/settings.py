@@ -22,6 +22,7 @@ INSTALLED_APPS = [
     'account.apps.AccountConfig',
     'images.apps.ImagesConfig',
     'sslserver',
+    'easy_thumbnails',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
